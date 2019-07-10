@@ -1,0 +1,40 @@
+#googleid{
+    margin: auto;
+    width: 50%;
+    border: 3px  ;
+    padding: 200px;
+    padding-left: 40%;
+   
+    
+
+}
+
+.list1 li{
+    list-style: none;
+    float: right;
+    display: inline;
+    padding-right: 10px;
+}
+
+.list2 li{
+    list-style: none;
+    float: left;
+    display: inline;
+    padding-right: 10px;
+    
+    
+}
+.list3 li{
+    list-style: none;
+    float: right;
+    display: inline;
+    padding-right: 10px;
+
+}
+#bar{
+   height: 30px;
+   width: 350px;
+   border-block-start-color: grey;
+   
+   
+}
